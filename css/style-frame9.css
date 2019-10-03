@@ -1,0 +1,63 @@
+.cls-frame9{
+	position: relative;
+	height: 100vh;
+	background-color: #000;
+	overflow: visible;
+}
+
+.illustrationContainerFrame9{
+	position: relative;
+	background-color: ;
+	height: 80%;
+	width: 40%;
+	left: 5%;
+	top:10%;
+	
+}
+
+#frameNineScreens{
+	position: relative;
+	height: 100%;
+	width: 100%;
+	transition: transform 4s ease-in 0s, opacity 5s ease-in 0s;
+}
+
+
+
+.frame9cloud{
+	position: absolute;
+	width: 100%;
+	height: 50%;
+	bottom: 10%;
+	overflow: visible;
+}
+
+#frame9cloud{
+	position: absolute;
+	overflow: visible;
+}
+
+.frame9-1{fill:#090e10;}
+.frame9-2{fill:#c4d2d6;}
+.frame9-3{fill:#c4d1d8;}
+.frame9-4{fill:#f2faf6;}
+.frame9-5{fill:#160606;}
+.frame9-6{fill:#e2f2cd;}
+.frame9-7{fill:#c08154;}
+.frame9-8{fill:#a9c3d1;}
+.frame9-9{fill:#f2c599;}
+.frame9-10{fill:#230b0a;}
+.frame9-11{fill:#585857;}
+.frame9-12{fill:#d7ddda;}
+
+.frame9cloud-1,.frame9cloud-2{fill:none;stroke:grey;stroke-linecap:round;stroke-linejoin:round;overflow: visible;}
+.frame9cloud-1{stroke-width:14.173px;}
+.frame9cloud-2{stroke-width:19.843px;}
+
+ /*matrix(scaleX(),skewY(),skewX(),scaleY(),translateX(),translateY())*/
+.cls-frame9:hover  #frameNineScreens{
+ 	transform: scale(0.9);
+ 	opacity: 0;
+ }
+
+ 

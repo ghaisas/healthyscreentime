@@ -1,0 +1,82 @@
+.cls-frame12{
+	position: relative;
+	height: 100vh;
+	background-color: #232323;
+}
+
+.illustrationContainerFrame12{
+	position: absolute;
+	top: 2%;
+	height: 96%;
+	background-color: ;
+	width: 100%;
+
+}
+
+#frameTwelveScreens{
+	position: absolute;
+	height: 100%;
+	width: 100%;
+}
+
+
+
+.frame12-4:hover {
+	fill: #C5E0D4;
+}
+
+#linksButton{
+	position: absolute;
+	height: 10vh;
+	width: 10vw;
+	background-color: ;
+	bottom: 20%;
+	right: 20%;
+
+}
+
+.frame12-1{fill:#c7cedd;}
+.frame12-2{opacity:0.22;}
+.frame12-3{fill:#232323;}
+.frame12-4{fill:#023f3c;}
+.frame12-5{font-size:30px;}
+.frame12-19,.frame12-20,.frame12-35,.frame12-5{fill:#c5e0d4;}
+.frame12-20,.frame12-35,.frame12-5{font-family: source-sans-pro, sans-serif;
+		    font-weight: 400;
+		    font-style: normal;}
+.frame12-6{letter-spacing:-0.01em;}
+.frame12-7{letter-spacing:-0.014em;}
+.frame12-8{letter-spacing:0em;}
+.frame12-9{letter-spacing:-0.017em;}
+.frame12-10{letter-spacing:-0.004em;}
+.frame12-11{letter-spacing:-0.004em;}
+.frame12-12{letter-spacing:-0.018em;}
+.frame12-13{letter-spacing:-0.035em;}
+.frame12-14{font-size:21px;}
+.frame12-15{letter-spacing:-0.02em;}
+.frame12-16{letter-spacing:-0.017em;}
+.frame12-17{letter-spacing:-0.01em;}
+.frame12-18{letter-spacing:-0.004em;}
+.frame12-20,.frame12-33{font-size:25px;}
+.frame12-21{letter-spacing:-0.01em;}
+.frame12-22{letter-spacing:-0.021em;}
+.frame12-23{letter-spacing:0em;}
+.frame12-24{letter-spacing:0.005em;}
+.frame12-25{letter-spacing:-0.035em;}
+.frame12-26{letter-spacing:-0.014em;}
+.frame12-27{letter-spacing:-0.01em;}
+.frame12-28{letter-spacing:-0.026em;}
+.frame12-29{font-size:24px;}
+.frame12-30{letter-spacing:-0.024em;}
+.frame12-31{letter-spacing:-0.014em;}
+.frame12-32{letter-spacing:-0.004em;}
+.frame12-34{letter-spacing:-0.02em;}
+.frame12-35{font-size:20px;}
+.frame12-36{letter-spacing:-0.014em;}
+.frame12-37{letter-spacing:-0.01em;}
+.frame12-38{letter-spacing:-0.01em;}
+.frame12-39{letter-spacing:-0.057em;}
+.frame12-40{letter-spacing:-0.024em;}
+.frame12-41{letter-spacing:-0.014em;}
+.frame12-42{letter-spacing:-0.021em;}
+.frame12-43{letter-spacing:0.013em;}

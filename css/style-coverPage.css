@@ -1,0 +1,256 @@
+body{
+	display: block;
+	background-color: ;
+	font: Helvetica;
+	font-size: 30pt;
+	color: white;
+	margin: 0;
+	}
+
+	
+
+.coverPage{
+	position: relative;
+	height: 100vh;
+	background-color: #C5E0D4 ;
+	transition: background-color 1s ease 0s;
+}
+
+.coverPageTitle{
+	position: absolute;
+	left: 50%;
+	top: 20%;
+	margin-top: -10vh;
+	margin-left: -30vw;
+	height: 20vh;
+	width: 60vw;
+	background-color: ;
+	font-family: aglet-slab, sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 70px;
+	text-align:center;
+	color: #023f3c;
+	transition: color 1s ease 0s, transform 1s ease 0s;
+}
+
+.coverPageTitle:hover{
+	transform: scale(0.9);
+}
+
+.coverPageExtraText{font-family: source-sans-pro, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;}
+
+
+.coverPageText{
+	position: absolute;
+	font-family: source-sans-pro, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+    color: #232323;
+    text-align: center;
+    background-color: ;
+    height: 20vh;
+    bottom: 0;
+    left: 50%;
+    width: 50vw;
+    margin-left: -25%;
+    transition: color 1s ease 0s, transform 1s ease 0s;
+}
+.coverPageText:hover{
+	color: #023f3c;
+	transform: scale(0.9);
+}
+
+.coverPageQs{
+	position: fixed;
+	width: 5vh;
+	height: 5vh;
+	border: 5px solid #fff;
+	border-radius: 50%;
+	color: #fff;
+	text-align: center;
+	font-family: source-sans-pro, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    right: 0;
+    top: 0;
+    background-color: #C5E0D4;
+}
+
+.coverPageInfoText{
+	position: fixed;
+	width: 15vw;
+	text-align: left;
+	font-family: source-sans-pro, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15pt;
+    color: #C5E0D4;
+    padding: 10px;
+    right: 0;
+    background-color: #232323;
+    opacity: 0;
+    transition: opacity 0.5s ease 0s;
+}
+
+.coverPageQs:hover .coverPageInfoText{
+	opacity: 100;
+}
+
+.coverPage-1{
+	opacity:0;
+	transition: transform 2s linear 0.1s, opacity 1s linear 0.1s;
+}
+.coverPage-2{fill:#31343c;}
+.coverPage-3{fill:#48505e;}
+.coverPage-4{fill:#023f3c;
+transition: fill 1s ease 0.5s;}
+.coverPage-5{fill:#7b8699;}
+
+.coverPageIllustration{
+	position: absolute;
+	height: 40vh;
+	margin-top: -20vh;
+	width: 30vw;
+	margin-left: -15vw;
+	background-color: ;
+	top: 45%;
+	left: 50%;
+}
+
+#coverPageScreens{
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	overflow: visible;
+	
+}
+
+#coverPageScreens:hover .coverPage-1{
+	opacity: 100;
+}
+
+#coverPageScreens:hover .coverPage-4{
+	fill: #C5E0D4;
+}
+
+#coverPageScreens:hover #otherScreen1{
+	transform: translate(20%, 20%);
+}
+
+#coverPageScreens:hover #otherScreen2{
+	transform: translate(45%, 45%);
+}
+
+#coverPageScreens:hover #otherScreen3{
+	transform: translate(75%, 75%);
+}
+
+#coverPageScreens:hover #otherScreen4{
+	transform: translate(100%, 100%);
+}
+
+
+#coverPageScreens:hover #otherScreen-1{
+	transform: translate(-20%, -20%);
+}
+
+#coverPageScreens:hover #otherScreen-2{
+	transform: translate(-45%, -45%);
+}
+
+#coverPageScreens:hover #otherScreen-3{
+	transform: translate(-75%, -75%);
+}
+
+#coverPageScreens:hover #otherScreen-4{
+	transform: translate(-100%, -100%);
+}
+
+
+
+
+
+
+/*.coverPageIllustration{
+	position: absolute;
+	height: 80vh;
+	margin-top: -40vh;
+	width: 30vw;
+	margin-left: -15vw;
+	transform: rotate(90deg);
+	top: 45%;
+	left: 50%;
+	transition: transform 5s ease 0s;
+	background-color: ;
+
+}
+
+#coverPageIllustration{
+	position: absolute;
+	height: 80vh;
+	width: 30vw;
+}
+
+.coverPageIllustration:hover .coverPage-2{
+	fill: #c7cedd;
+}
+
+.coverPageIllustration:hover ~.coverPageTitle{
+	color: #023f3c;
+	transform: scale(0.9);
+}
+
+.coverPageIllustration:hover{
+	transform: rotate(480deg);
+}
+
+
+.coverPage-1{fill:#232323;}
+.coverPage-2{fill:#023f3c;
+transition: fill 1s ease 0s;} */
+
+.moveYourMouseButton{
+	position: fixed;
+	padding: 10px;
+	right: 0;
+	bottom: 0;
+	opacity: 50%;
+	background-color: #232323;
+	color: #C5E0D4;
+	font-family: source-sans-pro, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 20px;
+
+
+}
+
+.button{
+	position: fixed;
+	height: 5vh;
+	width: 5vh;
+	background-color: #C5E0D4;
+	right: 0;
+	border: none;
+	top: 50%;
+	border-radius: 50%;
+}
+
+.button.up{
+	margin-top: -5vh;
+}
+
+.button.down{
+	margin-top: 5vh;
+}
+
+.upDown{
+	position: relative;
+	height: 100%;
+	width: 100%;
+}

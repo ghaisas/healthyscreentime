@@ -1,0 +1,155 @@
+.text{
+	font-family: source-sans-pro, sans-serif;
+    /*font-weight: 400;*/
+    font-style: normal;
+    position: absolute;
+    color: white;
+    font-size: 40px;
+}
+
+/*frame 1 text boxes*/
+.text.frame1{
+	background-color:  ;
+	left: 18%;
+	top: 17%;
+	color: #C5E0D4;
+}
+
+.text.frame1-2{
+	background-color: ;
+	opacity: 100;
+	width: 19vw ;
+	margin: 10px;
+	bottom: 16%;
+	right: 17.5%;
+	font-size: 26px;
+	text-align: right;
+	color: #C5E0D4;
+}
+
+/*frame 2 text boxes*/
+.text.frame2{
+	background-color: #282828 ;
+	width: 80vw;
+	left: 50%;
+	margin-left: -40vw;
+	top: 10%;
+	color: #C5E0D4;
+}
+
+/*frame 3 text boxes*/
+.text.frame3{
+	background-color: ;
+	width: 35vw;
+	right: 10%;
+	color: #023f3c;
+	top: 15%;
+}
+
+
+/*frame 4 text boxes*/
+.text.frame4{
+	background-color: ;
+	width: 35vw;
+	left: 10%;
+	color: #C5E0D4;
+	top: 15%;
+}
+
+.infoFrame4{
+	position: absolute;
+	font-family: source-sans-pro, sans-serif;
+    font-size: 25px;
+    font-style: normal;
+    position: absolute;
+
+}
+
+/*frame 5 text boxes*/
+.text.frame5{
+	background-color: ;
+	right: 15%;
+	color: #C5E0D4;
+	top: 15%;
+}
+
+/*frame 6 text boxes*/
+.text.frame6{
+	background-color: ;
+	left: 40%;
+	color: #C5E0D4;
+	top: 15%;
+}
+
+
+/*frame 7 text boxes*/
+.text.frame7{
+	background-color: ;
+	width: 80vw;
+	left: 50%;
+	margin-left: -40vw;
+	text-align: center;
+	color: #023f3c;
+	top: 15%;
+}
+
+
+/*frame 8 text boxes*/
+.text.frame8{
+	background-color: ;
+	left: 10%;
+	color: #023f3c;
+	top: 15%;
+	font-weight: 300;
+}
+
+.text.frame8-1{
+	background-color: ;
+	right: 5%;
+	text-align: center;
+	color: #C5E0D4;
+	bottom: 25%;
+	text-align: right;
+	font-weight: 300;
+}
+
+/*frame 9 text boxes*/
+.text.frame9{
+	background-color: ;
+	left: 50%;
+	color: #C5E0D4;
+	top: 10%;
+	font-weight: 300;
+}
+
+
+/*frame 10 text boxes*/
+.text.frame10{
+	background-color: ;
+	left: 5%;
+	width: 25%;
+	color: #C5E0D4;
+	top: 10%;
+	font-weight: 300;
+}
+
+/*frame 11 text boxes*/
+.text.frame11{
+	background-color: ;
+	width: 80vw;
+	left: 50%;
+	margin-left: -40vw;
+	text-align: center;
+	color: #023f3c;
+	top: 15%;
+}
+
+
+/*frame 12 text boxes*/
+
+
+
+
+
+
+

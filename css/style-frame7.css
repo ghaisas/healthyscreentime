@@ -1,0 +1,46 @@
+.cls-frame7{
+	position: relative;
+	height: 100vh;
+	background-color: #C5E0D4;
+}
+
+.illustrationContainerFrame7{
+	position: absolute;
+	height: 100vh;
+	width: 40vw;
+	background-color: ;
+	left: 50%;
+	margin-left: -20vw;
+}
+
+#frameSevenScreens{
+	position: absolute;
+	height: 60%;
+	width: 100%;
+	bottom:0;
+}
+
+.frame7-1{fill:#160606;}
+.frame7-2{fill:#a6a3c1;}
+.frame7-3{fill:#c08154;}
+.frame7-4{fill:#f2c599;}
+.frame7-5{fill:#e2f2cd;}
+.frame7-6{fill:#7b8699;}
+.frame7-7{fill:#f3f3f3;}
+.frame7-8{fill:#411b1f;}
+.frame7-9{fill:#ae3938;}
+.frame7-10{fill:#230b0a;}
+.frame7-11{fill:#7ecdf5;}
+.frame7-12{fill:#d2edfe;}
+
+#sweatDrop{
+	transform: translateX(-20px);
+
+	opacity: 0;
+	transition: transform 0.5s ease-in 0s;
+}
+
+#frameSevenScreens:hover #sweatDrop{
+	opacity: 100;
+	transform: translate(-20px ,60px);
+}

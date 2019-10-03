@@ -1,0 +1,69 @@
+.cls-frame8{
+	position: relative;
+	height: 100vh;
+	background-color: white;
+	cursor: url(svg-cursor32px.png), pointer;
+}
+
+.illustrationContainerFrame8{
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	background-color: ;
+	left: 0%;
+	overflow: hidden;
+}
+
+#frameEightScreens{
+	position: absolute;
+}
+
+
+#cloud{
+	transition: transform 5s linear 0s;
+}
+
+.cls-frame8:hover #cloud{
+	transform: translateX(250px);
+}
+
+#leftEye{
+	overflow: hidden;
+}
+
+.frame8-1{fill:#066915;}
+
+
+.frame8-2{fill:#156b38;}
+.frame8-3{fill:#064715;}
+.frame8-4{fill:#49453e;}
+.frame8-5{fill:#777163;}
+.frame8-6{fill:#e4f2f9;}
+.frame8-7{fill:#bacecc;}
+.frame8-8{fill:#2b0c0c;}
+.frame8-9{fill:#3d404e;}
+.frame8-10{fill:#7d9993;}
+.frame8-11{fill:#1b4d4a;}
+.frame8-12{fill:#7d8faa;}
+.frame8-13{fill:#515f72;}
+.frame8-14{fill:#5b564d;}
+.frame8-15{fill:#f2c599;}
+.frame8-16{fill:#c08154;}
+.frame8pupils{fill:#230b0a;}
+.frame8-18{fill:#88aab5;}
+.frame8-19{fill:#475977;}
+.frame8-20{fill:#d4d8d5;}
+.frame8-21{fill:#9dc1d1;}
+.frame8-22{fill:#d8d4d7;}
+.frame8-23{fill:#a8a8a8;}
+.frame8-24{fill:#2c3a44;}
+.frame8-25{fill:#2d1111;}
+.frame8-26{fill:#aaa8cc;}
+.frame8-27{fill:#e2f2cd;}
+.frame8-28{fill:#546672;}
+.frame8-29{fill:#9aa6b7;}
+.frame8-30{fill:#29343d;}
+.frame8-31{fill:#160606;}
+.frame8-32{fill:#1d6826;}
+.frame8-33{fill:#186038;}
+.frame8-34{fill:#fff;}
