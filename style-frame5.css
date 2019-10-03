@@ -1,0 +1,58 @@
+.cls-frame5{
+	position: relative;
+	height: 100vh;
+	background-color: #031C1A;
+}
+
+.illustrationContainerFrame5{
+	position: absolute;
+	left: 10%;
+	margin-top: 5%;
+	width: 40%;
+	height: 80%;
+	background-color: ;
+}
+
+#frameFiveScreens{
+	position: absolute;
+	height: 100%;
+	width: 100%;
+}
+
+.frame5-1{fill:#31343c;}
+.frame5-2{fill:#f2c599;}
+.frame5-3{fill:#230b0a;}
+.frame5-4{fill:#fff;}
+.frame5-5{fill:#3c121b;}
+.frame5-6{fill:#213233;}
+.frame5-7{fill:#9fa9ad;}
+.frame5-8{fill:#c4d2d6;}
+.frame5-9{fill:#d2edfe;}
+.frame5-10{fill:#979d9e;}
+.frame5-11{fill:#bfc4d1;}
+.frame5-12{fill:#8795b2;}
+.frame5-13{fill:#677291;}
+.frame5-14{fill:#46526d;}
+.frame5-15{fill:#f2faf6;}
+.frame5-16{fill:#7b8699;}
+.frame5-17{fill:#48505e;}
+.frame5-18{fill:#023f3c;}
+.frame5-19{fill:#c4d1d8;}
+.frame5-20{fill:#661f2a;}
+.frame5-21{fill:#160606;}
+.frame5-22{fill:#c08154;}
+.frame5-23{fill:#a6a3c1;}
+.frame5-24{fill:none;}
+
+
+#correctPosture{
+	opacity:0;
+}
+
+#frameFiveScreens:hover #correctPosture{
+	opacity: 100;
+}
+
+#frameFiveScreens:hover #wrongPosture{
+	opacity: 0;
+}
